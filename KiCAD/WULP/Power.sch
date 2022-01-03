@@ -330,4 +330,6 @@ F 3 "" H 1550 3500 50  0001 C CNN
 	1    1550 3500
 	1    0    0    -1  
 $EndComp
+Text Notes 7050 3150 0    50   ~ 0
+Find lower Q current regulator, this one is typ 5mA\n
 $EndSCHEMATC
